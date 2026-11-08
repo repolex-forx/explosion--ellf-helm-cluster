@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/ellf-helm-cluster/commit/cafcdd3ec4f15fe8e27ea0246949dc5d11564948",
       "git:hexsha": "cafcdd3ec4f15fe8e27ea0246949dc5d11564948",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
